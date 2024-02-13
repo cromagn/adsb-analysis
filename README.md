@@ -1,6 +1,6 @@
 # adsb-analysis
 
-***ADS-B Receiver Performance - Maximum Reliable Range***
+***ADS-B Receiver Performance - Maximum Reliable Range for dump1090-fa***
 
 This looks at how reliably you receive ADS-B messages over a range of distance from your location. Reliability drops off with distance, but the better your system, the farther out it will receive reliably. The plots show a *maximum reliable range*.
 
