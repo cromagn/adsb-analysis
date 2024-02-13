@@ -8,7 +8,7 @@
    ```
 2) Clone this repository
    ```bash
-   git clone https://github.com/dirkbeer/adsb-analysis.git
+   git clone https://github.com/cromagn/adsb-analysis.git
    ```
 3) Go to the adsb-analysis folder
    ```bash
