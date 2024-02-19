@@ -28,9 +28,9 @@ else:
 data_dir = '/run/tar1090'
 config_file_path = '/run/dump1090-fa/receiver.json'
 device_name_path = '/var/cache/piaware/feeder_id'
-data_dir = 'C:\\Tools\\Dati\\tar1090'
-config_file_path = 'C:\\Tools\\Dati\\latlong'
-device_name_path = 'C:\\Tools\\Dati\\feederid'
+# data_dir = 'C:\\Tools\\Dati\\tar1090'
+# config_file_path = 'C:\\Tools\\Dati\\latlong'
+# device_name_path = 'C:\\Tools\\Dati\\feederid'
 
 
 def get_id():
